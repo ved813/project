@@ -7,3 +7,6 @@ git commit -m "Name"(to save)
 git log(who changed the file)
 git config --global user.name "NAME"(all files in this PC will be used by this name and email)
 git config --global user.email "email"
+git remote remove origin(for not uploading or to change the repository)
+
+ 
