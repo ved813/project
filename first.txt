@@ -1,9 +1,0 @@
-git
-git config --global user.name "NAME"
-git config --global user.email "MAIL"
-git config --list
-git status
-git init
-git add --a
-git commit -m "Intial commit"
-git log

@@ -1,0 +1,9 @@
+rm -f .git/index.lock(if two commands are run symontaniously)
+git 
+git status 
+git inti
+git add .(to add all the files)
+git commit -m "Name"(to save)
+git log(who changed the file)
+git config --global user.name "NAME"(all files in this PC will be used by this name and email)
+git config --global user.email "email"
