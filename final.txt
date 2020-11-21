@@ -26,4 +26,6 @@ git branch login(branch name you want to create login is example)
 git checkout login(branch name you want to create login is example)
 git push origin anyname
 git merge login(branch name you want to create login is example and in which ever branch you want to merge run the code there)
+git branch -d login(branch name you want to create login is example)
+git push origin --delete login(branch name you want to create login is example this is for deleting from github)
 
